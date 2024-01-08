@@ -1,1 +1,1 @@
-# Programming_Technique_I
+# Programming Technique I
