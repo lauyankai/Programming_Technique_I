@@ -1,3 +1,7 @@
+// The program reads an integer number and then calculate the product of its digits.
+// It then identify whether the product of digits for the integer is a multiple of 4, 5, and/ or 7.
+
+
 #include <iostream>
 using namespace std;
 

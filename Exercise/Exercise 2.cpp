@@ -1,3 +1,7 @@
+// The program reads an integer number and then calculate the product of its digits.
+// It then identify whether the product of digits for the integer is an even or odd number, and a multiple of 3, and/ or 5.
+
+
 #include <iostream>
 using namespace std;
 
