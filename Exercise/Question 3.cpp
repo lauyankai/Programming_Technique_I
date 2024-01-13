@@ -1,13 +1,6 @@
 #include <iostream>
 using namespace std;
 
-/*
-			LAU YAN KAI
-			A23CS0098
-			EXERCISE 2 
-			SECJ1013 PROGRAMMING TECHNIQUE I 
-*/
-
 int main() {
 	int num, product;
 	product = 1;
