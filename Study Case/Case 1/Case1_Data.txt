@@ -1,0 +1,4 @@
+Cereal A  	2.64  	0.26  	0.36
+Cereal B  	0.34  	0.53  	0.07
+Cereal C  	2.58  	0.28  	0.63
+Cereal D  	1.95  	0.44  	0.15
