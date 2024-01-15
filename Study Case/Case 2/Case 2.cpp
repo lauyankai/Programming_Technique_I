@@ -133,7 +133,6 @@ void readFile(int &count, string name[], string id[], char answer[][MAX_QUESTION
 
 	inputfile.close();
 }
-//------------------------------------------------------------------------------------------------------------------
 
 //----------------------------------- Export Summary Result to Output File -----------------------------------------
 void printReport(int count)
@@ -159,7 +158,7 @@ void printReport(int count)
 
 	outfile.close();
 }
-//------------------------------------------------------------------------------------------------------------------
+
 
 //----------------------------------- Compare Student answer with Correct answer -----------------------------------
 int compareAnswer(char skema[][MAX_QUESTION], char ans[][MAX_QUESTION], int search)
@@ -175,7 +174,7 @@ int compareAnswer(char skema[][MAX_QUESTION], char ans[][MAX_QUESTION], int sear
 	}
 	return num;
 }
-//------------------------------------------------------------------------------------------------------------------
+
 
 //----------------------------------- Display Incorrect Answer -----------------------------------------------------
 void printMissQuestion(char skema[][MAX_QUESTION], char ans[][MAX_QUESTION], int search)
@@ -193,7 +192,7 @@ void printMissQuestion(char skema[][MAX_QUESTION], char ans[][MAX_QUESTION], int
 		}
 	}
 }
-//------------------------------------------------------------------------------------------------------------------
+
 
 //----------------------------------- Display Percentage of Correct answer -----------------------------------------
 double coutpercentage(int miss)
@@ -201,7 +200,7 @@ double coutpercentage(int miss)
 	double percent = (20.0 - miss) / 20.0 * 100;
 	return percent;
 }
-//------------------------------------------------------------------------------------------------------------------
+
 
 //------------------------------------ Display Grade obtained ------------------------------------------------------
 char coutgrade(double percent)
