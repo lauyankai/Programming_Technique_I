@@ -23,3 +23,6 @@ This course equipped me with essential problem-solving skills in C++, covering a
   * <a href="https://github.com/lauyankai/Programming_Technique_I/blob/main/Exercise/ASGN%202%20-%20Q2.cpp">Car loan calculator</a>
 
 * Write a <a href="https://github.com/lauyankai/Programming_Technique_I/blob/main/Exercise/Exercise%205.cpp">complete C++ program</a> that helps the Ministry of Health (MOH) to determine the status of a zone by calculating the number of active cases for COVID 19.
+
+## Reflection 
+From the Programming Technique I course, I learned important problem-solving skills using C++. The course covered various programming concepts and tools, such as preprocessor directives, data types, and control structures. I explored functions, arrays, file operations, pointers, and structured data types, improving my ability to create effective solutions for different challenges in computer science.
